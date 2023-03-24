@@ -138,3 +138,5 @@ Check out the Power BI report [here](https://github.com/charlezvictor/Predict-Cu
 ### I'm available to answer any questions and receive any recommendations you have concerning this project.
 #### Let's connect on [Linkedin](https://www.linkedin.com/in/victor-onyeaghala-08a909167/) and on [Twitter](https://www.twitter.com/_char_lez)
 
+Credits - Data 360 YP (Youtube Channel)
+100% Data Science educative channel
